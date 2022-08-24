@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaxSteinMS
 - 👀 PM @ Microsoft | Microsoft Endpoint Manager - Intune
-- 📫 How to reach me: Feel free to DM me in GitHub!
+- 📫 How to reach me: Feel free to connect with me on Twitter via: https://aka.ms/MaxStein!
 
 <!---
 MaxSteinMS/MaxSteinMS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
