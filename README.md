@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MaxSteinMS
-- 👀 PM @ Microsoft | Microsoft Endpoint Manager - Intune
+- 👀 PM @ Microsoft | Microsoft Intune
 - 📫 How to reach me: Feel free to connect with me on Twitter via: https://aka.ms/MaxStein!
 
 <!---
