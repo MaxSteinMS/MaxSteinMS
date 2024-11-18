@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MaxSteinMS
-- 👀 PM @ Microsoft | Microsoft Intune
+- 👀 PM @ Microsoft | Microsoft Intune & Microsoft Security in CxE
 - 📫 How to reach me: Feel free to connect with me on Twitter via: https://aka.ms/MaxStein!
 
 <!---
